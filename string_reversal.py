@@ -1,5 +1,3 @@
-import re
-
 print('Submit a string you would like to reverse:\n')
 str = input('> ')
 
